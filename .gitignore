@@ -1,0 +1,8 @@
+# Local environment overrides (contains IP, username, and local paths)
+.env
+*.local.env
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
